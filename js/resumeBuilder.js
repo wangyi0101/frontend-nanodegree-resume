@@ -9,7 +9,7 @@ var bio = {
         "location":"Fremont,CA"
     },
     "welcomeMessage": "I'm a front-end Apprentice, who spend more than 10 hours each day to polish HTML5, CSS3 and JavaScript skills. I am eager to become a professional web developer, since web for me has infinite possibilities. I enjoy work that challenges me to explore new technical skills and touch the next level of achievement. ",
-    "bioPic": "http://placehold.it/250x200",
+    "bioPic": "images/myimg.jpg",
     "skills": ["HTML5, CSS3, JavaScript, JQuery, Git, Bash, Bootstrap, Responsive Design, Python, SQL"]
 }
 
