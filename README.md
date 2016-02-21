@@ -8,5 +8,6 @@ The relevant Udacity coursework:
 * [JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804-nd)
 * [Intro to jQuery](https://www.udacity.com/course/intro-to-jquery--ud245-nd)
 * [How to Use Git HubHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775-nd)
+
 Reference:
 * [D3 Bubble Chart](http://bl.ocks.org/phuonghuynh/54a2f97950feadb45b07)
