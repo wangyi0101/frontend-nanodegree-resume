@@ -2,7 +2,7 @@
 
 [http://wangyi0101.github.io/frontend-nanodegree-resume/](http://wangyi0101.github.io/frontend-nanodegree-resume/)
 
-This interactive resume([Link](http://wangyi0101.github.io/frontend-nanodegree-resume/)) is my second Udacity Front-End Web Developer Nanodegree project.In this project, I developed a application that reads my resume content from a JSON file and dynamically displays it. Other than using a provided template, I personalized the layout of my resume via Bootstrap and D3.js, such as Bootstrap Jumbotron, Bootstrap Progress Bars, and D3 Simple Bubble Chart. 
+This interactive resume([Link](http://wangyi0101.github.io/frontend-nanodegree-resume/))is my second Udacity Front-End Web Developer Nanodegree project. In this project, I developed a application that reads my resume content from a JSON file and dynamically displays it. Other than using a provided template, I personalized the layout of my resume via Bootstrap and D3.js, such as Bootstrap Jumbotron, Bootstrap Progress Bars, and D3 Simple Bubble Chart. 
 
 The relevant Udacity coursework:
 
