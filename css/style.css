@@ -1,7 +1,8 @@
-body{
+body {
   padding-top: 70px;
   font-family: 'Lato', sans-serif;
 }
+
 div,
 ul,
 li,
@@ -12,8 +13,8 @@ h3,
 h4,
 h5,
 h6 {
-  padding:0;
-  margin:0;
+  padding: 0;
+  margin: 0;
   font-family: 'Lato', sans-serif;
 }
 
@@ -67,10 +68,9 @@ h3,
 h4,
 h5 {
   font-family: 'Lato', sans-serif;
-  padding:10px 5%;
+  padding: 10px 5%;
 
 }
-
 
 .date-text {
   font-style: italic;
@@ -134,9 +134,8 @@ a {
 }
 
 .gray {
-/*  background-color: #f3f3f3;*/
   padding-bottom: 10px;
-  clear:both;
+  clear: both;
   font-family: 'Lato', sans-serif;
   font-size: 16px;
 }
@@ -194,7 +193,7 @@ span {
   }
 }
 
-@media only screen and (max-width:900px) {
+@media only screen and (max-width: 900px) {
   .biopic {
     width: 175px;
   }
@@ -251,30 +250,30 @@ span {
   margin: 0 auto;
 }
 
-.project_title,
-.award_title {
+.project-title,
+.award-title {
  font-family: 'Lato', sans-serif;
  font-size: 18px;
  font-weight: bold;
 }
 
-.language_title {
+.language-title {
  font-family: 'Lato', sans-serif;
  font-size: 18px;
  font-weight: bold;
  color: #5bc0de;
 }
 
-.project_color {
+.project-color {
   background-color: #eee;
   padding: 10px 0 5px 0;
 }
 
-.working_background {
+.working-background {
   padding: 10px 0 5px 0;
 }
 
-.language_background {
+.language-background {
   padding: 15px 20px 5px 30px;
 }
 
